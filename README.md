@@ -11,6 +11,12 @@ This project is an **AI-Powered Conversational Agent** designed for multi-base n
 
 ---
 
+## 🎥 Demonstration Video & Deliverables
+* 🎬 **Project Demo Video:** [Click Here to Watch Video](https://drive.google.com/file/d/1dU_EWZLETumnVmEYySTiU4QHRagSdoHx/view?usp=sharing)
+* 📄 **Project Report (PDF):** [Click Here to View PDF Report](https://drive.google.com/file/d/11O0Tlfhl5q6ZAhUSuatkc8U7nnRedmcQ/view?usp=drive_link)
+
+---
+
 ## 🚀 Key Features
 * **Conversational Interface:** Accepts commands like *"Convert 101101 from binary to hexadecimal"* or *"Convert 255 to binary"*.
 * **Radix Validation Engine:** Detects invalid characters per base (e.g., digit `2` in Base-2, character `Z` in Base-16) with clear error protocols.
