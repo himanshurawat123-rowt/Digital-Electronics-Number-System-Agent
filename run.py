@@ -7,7 +7,7 @@ import os
 current_dir = os.path.dirname(os.path.abspath(__file__))
 
 print("===================================================")
-print("🚀 Starting Okay Bot AI Number System Converter...")
+print(">> Starting Okay Bot AI Number System Converter...")
 print("===================================================")
 
 # 1. Start Backend API server in background
